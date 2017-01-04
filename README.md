@@ -1,0 +1,1 @@
+a simple recycler demo, long press item to change position. drag left or right to delete item
